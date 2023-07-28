@@ -5,8 +5,8 @@ import PackageDescription
 let package = Package(
     name: "EPWatchCore",
     platforms: [
-        .iOS("16.0"),
-        .watchOS("9.1")
+        .iOS("17.0"),
+        .watchOS("10.0")
     ],
     products: [
         .library(
